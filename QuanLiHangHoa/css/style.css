@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+#header {
+  text-align: center;
+  padding: 40px 0;
+
+}
+body{
+  background-image: url(./img/Presentation1.jpg);
+  background-size: cover;
+}
+.headding {
+  font-size: 25px;
+  color: #fff;
+}
+.btn {
+  text-align: center;
+  margin: 30px;
+  width: 150px;
+}
+.cen {
+  text-align: center;
+}
+label {
+  margin: 30px;
+  color: #fff;
+  float: left;
+}
+input {
+  float: right;
+  margin-right: 90px;
+  margin-top: 30px;
+}
